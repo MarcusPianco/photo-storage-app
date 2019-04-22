@@ -1,0 +1,3 @@
+rootProject.name = 'photoStorageApp'
+
+include ':app'
